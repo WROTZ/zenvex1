@@ -1,0 +1,21 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="zenvex-green-top" x1="34" y1="60" x2="190" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E8F62"/>
+      <stop offset="1" stop-color="#39DBA1"/>
+    </linearGradient>
+    <linearGradient id="zenvex-green-main" x1="74" y1="66" x2="196" y2="158" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F9C6E"/>
+      <stop offset="1" stop-color="#00C896"/>
+    </linearGradient>
+    <linearGradient id="zenvex-silver" x1="62" y1="150" x2="190" y2="208" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9298A1"/>
+      <stop offset="0.48" stop-color="#F4F6F8"/>
+      <stop offset="1" stop-color="#B2B7C0"/>
+    </linearGradient>
+  </defs>
+  <path d="M36 56H194L174 88H16L36 56Z" fill="url(#zenvex-green-top)"/>
+  <path d="M92 88H174L138 146L52 192L92 126H28L52 88H92Z" fill="url(#zenvex-green-main)"/>
+  <path d="M124 154L88 206H196L212 182H134L156 154H124Z" fill="url(#zenvex-silver)"/>
+  <path d="M78 184H152L126 152L78 184Z" fill="#C5CBD3" fill-opacity="0.72"/>
+</svg>
